@@ -119,7 +119,7 @@ figure {
 #menu figure {
     float: left;
     width: 250px;
-    height: 220px;
+    height: 270px;
     padding: 5px;
     margin: 20px;
     border: 1px solid #eeeeee;
@@ -128,17 +128,26 @@ figure {
 section.sub {
     /* float: left; */
     width: 100%px;
-    /* background-color: #0C0; */
-    /* border-right: 1px solid #eeeeee; */
+
     margin-top: -80px;
     padding-left: 35px;
 }
 
 /* Akhir daftar makanan */
+
+
 /* Tentang */
 
 .keterangan h2 {
     font-size: 70px;
+}
+
+
+section.box-tentang {
+    /* float: left; */
+    width: 100%px;
+    margin-top: -80px;
+    padding-left: 35px;
 }
 
 /* akhir tentang */
