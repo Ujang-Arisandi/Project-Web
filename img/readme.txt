@@ -1,1 +1,1 @@
-this folder contain new picture
+adding several image for new web
